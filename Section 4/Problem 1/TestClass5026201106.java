@@ -25,7 +25,7 @@ public class TestClass5026201106{
 
 
 
-        // 1C Dice,no input because its random
+        // 1C Dice,random input
         System.out.println("\nSum of 2 dice");
         int daduAwal = (int)(Math.random()*6 + 1);
         int daduAkhir = (int)(Math.random()*6 + 1);
