@@ -1,0 +1,68 @@
+group: labChoose
+
+Mahasiswa = {
+nama, kota, nrp, jk, lab
+'aidhil', 'muaro jambi', 106, 'L', 'IKTI'
+'bene', 'bandung', 115, 'L', 'ADDI'
+'jeremy', 'bogor', 120, 'L', 'RDIB'
+'aqsha', 'bontang', 001, 'L', 'SE'
+'aida', 'bojonegoro', 008, 'P', 'MSI'
+'april', 'jakarta', 014, 'P', 'ADDI'
+'juan', 'jakarta', 043, 'L', 'IKTI'
+'cresna', 'denpasar', 056, 'L', 'RDIB'
+'bashara', 'jakarta', 066, 'L', 'ADDI'
+'farrel', 'surabaya', 142, 'L', 'SE'
+}
+
+Dosen = {
+nama, nip, jk
+'Dr. Bambang Setiawan, S.Kom., M.T.', 196911152005011003, 'L'
+'Nisfu Asrul Sani, S.Kom., M.Sc.', 198305272010121002, 'L'
+'Eko Wahyu Tyas D., S.Kom., M.BA.', 198507292014042002, 'P'
+'Ir. Achmad Holil Noor Ali, M.Kom.', 196606021992031002, 'L'
+'Retno Aulia Vinarti, S.Kom., M.Kom., Ph.D.', 1988201812010, 'P'
+'Edwin Riksakomara, S.Kom., M.T.', 196907252003121001, 'L'
+'Faizal Johan Atletiko, S.Kom, MT.', 197704082002121001, 'L'
+'Renny Pradina, S.T., M.T.', 198107172012122001, 'P'
+'Rully Agus Hendrawan, M.Eng.', 198112292005011002, 'L'
+'Mahendrawathi Er., ST., M.Sc., Ph.D.', 197610112006042001, 'P'
+}
+Lab = {
+nama, lab
+'Rully Agus Hendrawan, M.Eng', 'SE'
+'Prof. Erma Suryani, ST., MT., Ph.D.', 'SE'
+'Mahendrawathi Er., ST., M.Sc., Ph.D.', 'SE'
+'Dr. Mudjahidin, S.T., M.T.', 'SE'
+'Andre Parvian Aristio, S.Kom., M.Sc.', 'SE'
+'Ika Nurkasanah, S.Kom, M.Sc.', 'SE'
+'Arif Wibisono, S.Kom., M.Sc.', 'SE'
+'Amna Shifia N. S.Kom., M.Sc.', 'SE'
+'Eko Wahyu Tyas D., S.Kom., M.BA.', 'MSI'
+'Ir. Achmad Holil Noor Ali, M.Kom.', 'MSI'
+'Dr. Apol Pribadi Subriadi, S.T., M.T.', 'MSI'
+'Tony Dwi Susanto, S.T., M.T., Ph.D.', 'MSI'
+'Feby Artwodini, S.Kom., M.T.', 'MSI'
+'Hanim Maria Astuti, S.Kom., M.Sc.', 'MSI'
+'Anisah Herdiyanti, S.Kom., M.Sc.', 'MSI'
+'Sholiq, S.T., M.Kom.', 'MSI'
+'Faizal Mahananto, S.Kom., M.Eng., Ph.D.', 'RDIB'
+'Prof. Dr. Ir. Arif Djunaidy, M.Sc.', 'RDIB'
+'Edwin Riksakomara, S.Kom., M.T.', 'RDIB'
+'Ahmad Mukhlason, S.Kom., M.Sc., Ph.D.', 'RDIB'
+'Raras Tyasnurita, S.Kom., M.BA., Ph.D', 'RDIB'
+'Retno Aulia Vinarti, S.Kom., M.Kom., Ph.D.', 'RDIB'
+'Amalia Utamima, S.Kom., M.BA.', 'RDIB'
+'Wiwik Anggraeni, S.Si., M.Kom.', 'RDIB'
+'Faizal Johan Atletiko, S.Kom, MT.', 'ADDI'
+'Dr. Ir. Aris Tjahyanto, M.Kom.', 'ADDI'
+'Nur Aini Rakhmawati, S.Kom., M.Sc.Eng., Ph.D.', 'ADDI'
+'Radityo Prasetianto Wibowo, S.Kom, M.Kom.', 'ADDI'
+'Renny Pradina, S.T., M.T.', 'ADDI'
+'Irmasari Hafidz, S.Kom., M.Sc.', 'ADDI'
+'Dr. Rarasmaya Indraswari, S.Kom.', 'ADDI'
+'Dr. Bambang Setiawan, S.Kom., M.T.', 'IKTI'
+'Dr.Eng. Febriliyan Samopa, S.Kom., M.Kom.', 'IKTI'
+'Nisfu Asrul Sani, S.Kom., M.Sc.', 'IKTI'
+'Bekti Cahyo Hidayanto, S.Si., M.Kom.', 'IKTI'
+'Izzat Aulia Akbar, S.Kom., M.Eng., Ph.D.', 'IKTI'
+}
